@@ -10,7 +10,7 @@ TODO:
 - mate checking
 - rooking
 - options
--- timer
+ - timer
 - pawn conversion
 - installer
 - ai
