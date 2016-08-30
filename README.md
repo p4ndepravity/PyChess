@@ -11,6 +11,9 @@ TODO:
 - rooking
 - options
  - timer
+ - disable undo
+ - ai difficulty
+ - custom colors?
 - pawn conversion
 - installer
 - ai
