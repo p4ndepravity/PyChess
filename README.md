@@ -6,11 +6,11 @@ requires a python compiler (found here: https://www.python.org/downloads/release
 Can show valid moves with the exception of checking for mate (i.e. its possible to jeopardize your king)
 
 TODO:
--undo
--mate checking
--rooking
--options
---timer
--pawn conversion
--installer
--ai
+- undo
+- mate checking
+- rooking
+- options
+-- timer
+- pawn conversion
+- installer
+- ai
