@@ -8,6 +8,12 @@ Can show valid moves with the exception of checking for mate (i.e. its possible 
 TODO:
 - undo
 - mate checking
+- checkmate checking
+- draw conditions
+ - insufficient material
+ - draw by repetition
+ - stalemate
+ - 50-move rule
 - rooking
 - options
  - timer
